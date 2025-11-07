@@ -2,4 +2,4 @@ Welcom to PRTGN! A file format writen in Rust and [![Built With Ratatui](https:/
 
 This file format is based on the fictional furry species Protogen, created by [CoolKoinu](https://coolkoinu.carrd.co) 
 
-Documentation created useing the [iDocs template](https://github.com/harnishdesign/iDocs/tree/main), which is under an MIT license
+[Documentation](https://prtgn-development-team.github.io/docs.html) created useing the [iDocs template](https://github.com/harnishdesign/iDocs/tree/main), which is under an MIT license
