@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: PRTGN Web
 description: A Protogen based file extension written in Rust.
